@@ -1,0 +1,13 @@
+{
+  "name": "dl-contrarian-scanner",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Price-based contrarian ETF scanner \u2014 Stage 1 basing detection across an ETF universe",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "author": "DeLorean Partners",
+  "license": "UNLICENSED",
+  "type": "module"
+}
